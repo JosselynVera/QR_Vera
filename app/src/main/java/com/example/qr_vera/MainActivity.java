@@ -275,6 +275,11 @@ public class MainActivity extends AppCompatActivity implements OnSuccessListener
                                                 .append(" Contraseña: ").append(password).append("\n")
                                                 .append(" Tipo: ").append(tipo).append("\n");
                                         break;
+                                    case Barcode.FORMAT_CODABAR:
+                                        String codabarValue = barcode.getRawValue();
+                                        resultText.append(" CODIGO DE BARRAS CODABAR\n")
+                                                .append(" Valor: ").append(codabarValue).append("\n");
+                                        break;
                                 }
                             }
                             txtResults.setText(resultText.toString());
