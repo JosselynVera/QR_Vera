@@ -7,3 +7,6 @@
 <p align="center">
   <img src="https://github.com/JosselynVera/QR_Vera/assets/151960853/0877af04-9d01-480f-989f-83d8c90fde2a" alt="Descripción de la imagen" width="400">
 </p>
+<p align="center">
+  <img src="https://github.com/JosselynVera/QR_Vera/assets/151960853/7d8a6bb8-477a-48ca-824b-472cc2c12e88" alt="Descripción de la imagen" width="400">
+</p>
